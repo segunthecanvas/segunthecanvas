@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @segunthecanvas
-- 👀 I’m interested in business conversions either by user experience design or data analytics
-- 🌱 I’m currently learning how to analyse data to make decisions
-- 💞️ I’m looking to collaborate on open source datasets
+- 👀 I’m interested in creating design humans can easily use and enjoy
+- 🌱 I’m currently learning consulting for multiple start-ups
+- 💞️ I’m looking for opportunities for human-centered digital product design
 - 📫 You can reach me via segunthecanvas@gmail.com
 
 <!---
